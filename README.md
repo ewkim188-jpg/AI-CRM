@@ -80,5 +80,5 @@ streamlit run app.py
 
 ---
 Developed & Maintained by **Eun Woo Kim (김은우)**  
-📧 Contact: chloewkim@gmail.com | [LinkedIn](https://www.linkedin.com/in/eunwookim/)  
+📧 Contact: chloewkim@gmail.com | [(https://www.linkedin.com/in/eun-woo-kim-16349a3b0/)]
 *Last Updated: February 2026*
