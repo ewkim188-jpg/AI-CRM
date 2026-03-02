@@ -8,6 +8,10 @@ from hcp_segmentation import perform_segmentation
 from churn_prediction import train_churn_model
 from nba_recommender import apply_nba
 
+# Matplotlib 한글 폰트 설정 (Windows용)
+plt.rcParams['font.family'] = 'Malgun Gothic'
+plt.rcParams['axes.unicode_minus'] = False
+
 # Page configuration
 st.set_page_config(page_title="AI-Powered Pharma CRM", layout="wide")
 
